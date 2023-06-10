@@ -13,7 +13,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thihaaung225278&show_icons=true&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thihaaung225278)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thihaaung225278&theme=dark)
 
 
 <h3 align="left">Languages and Tools:</h3>
