@@ -1,3 +1,5 @@
+
+![github banner](https://github.com/thihaaung225278/thihaaung225278/blob/main/github-banner.jpg)
 <h1 align="center">Hi 👋, I'm Thiha Aung</h1>
 <h3 align="center">I am a motivative web developer.</h3>
 
