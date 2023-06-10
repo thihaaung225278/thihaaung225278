@@ -15,7 +15,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thihaaung225278&layout=pie&theme=dark)]()
 
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=thihaaung225278)]()
 
 <!-- <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
