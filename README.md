@@ -11,12 +11,8 @@
 
 - 📫 How to reach me **thihaaung1751992@gmail.com**
 
-<div>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thihaaung225278&show_icons=true&theme=dark)
- </div>
- <div>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thihaaung225278&hide_progress=true)
-  </div>
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
